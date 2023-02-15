@@ -1,0 +1,55 @@
+let task=[{
+        "taskName": "Cleaning",
+        "description": "Cleaning the living area",
+        "importance": 0,
+        "pic": "images\\img2.jpg"
+    },
+    {
+        "taskName": "dishes",
+        "description": "dishes on a regular basis",
+        "importance": 0,
+        "pic": "images\\img3.jpg"
+    },
+    {
+        "taskName": "VaccumCleaning",
+        "description": "Cleaning the bedroom",
+        "importance": 0,
+        "pic": "images\\img4.jpg"
+    },
+    {
+        "taskName": "Cooking",
+        "description": "Cleaning with grandmother",
+        "importance": 0,
+        "pic": "images\\img5.jpg"
+    },
+    {
+        "taskName": "Vaccum",
+        "description": "Cleaning the living area",
+        "importance": 0,
+        "pic": "images\\img6.jpg"
+    },
+    {
+        "etaskName": "Grocery",
+        "descriptioe": "Grocery shopping for the week",
+        "importance": 0,
+        "pic": "images\\img7.jpg"
+    },
+    {
+        "taskName": "Playtime",
+        "description": "Playing with the kids",
+        "importance": 0,
+        "pic": "images\\img8.jpg"
+    },
+    {
+        "taskName": "Vaccum",
+        "description": "Cleaning the living area",
+        "importance": 0,
+        "pic": "images\\img9.jpg"
+    },
+    {
+        "taskName": "Vaccum",
+        "description": "Cleaning the living area",
+        "importance": 0,
+        "pic": "images\\img10.jpg"
+    }
+]
